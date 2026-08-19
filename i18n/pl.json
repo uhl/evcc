@@ -263,9 +263,13 @@
       "descriptionAdvanced": "Nie są wymagane żadne zmiany. Wprowadzaj zmiany tylko wtedy, gdy naprawdę wiesz, co robisz. Jeśli zmienisz identyfikator SHIP lub certyfikaty, konieczne będzie ponowne sparowanie urządzeń.",
       "interfaces": "Interfejsy",
       "interfacesHelp": "Ogranicz liczbę interfejsów sieciowych, z których EEBus powinien korzystać, aby uniknąć problemów komunikacyjnych. Pozostaw pole puste, aby korzystać ze wszystkich interfejsów. Jeden wpis na wiersz.",
+      "noPairings": "Brak sparowanych urządzeń.",
+      "pairings": "Sparowane urządzenia",
       "port": "Port",
       "portHelp": "Port, który ma być użyty.",
+      "qr": "Kod parowania",
       "removeConfirm": "Cała konfiguracja EEBus zostanie usunięta. Nowe certyfikaty i identyfikatory zostaną wygenerowane przy następnym uruchomieniu. Czy jesteś pewien?",
+      "removePairing": "Usuń parowanie",
       "shipid": "SHIP-ID",
       "shipidExplain": "Trwały identyfikator urządzenia służący do identyfikacji w sieci EEBus.",
       "shipidHelp": "SHIP-ID połączone z poniższymi certyfikatami.",
@@ -285,6 +289,7 @@
     "form": {
       "danger": "Niebezpieczeństwo",
       "deprecated": "przestarzałe",
+      "durationUnit": "Jednostka czasu dla {label}",
       "example": "Przykład",
       "optional": "opcjonalnie"
     },
